@@ -1,4 +1,4 @@
-package com.elehpant.common.producer.hazelcast;
+package com.elephant.common.producer.hazelcast;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.enterprise.inject.Produces;

@@ -1,4 +1,4 @@
-package com.elehpant.common.producer.hazelcast;
+package com.elephant.common.producer.hazelcast;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

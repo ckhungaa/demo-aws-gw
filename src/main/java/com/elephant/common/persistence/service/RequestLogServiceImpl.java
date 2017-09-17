@@ -1,4 +1,4 @@
-package com.elehpant.common.persistence.service;
+package com.elephant.common.persistence.service;
 
 import java.time.LocalDateTime;
 

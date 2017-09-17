@@ -10,7 +10,7 @@ import org.glassfish.jersey.server.monitoring.RequestEventListener;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.elehpant.common.persistence.service.RequestLogService;
+import com.elephant.common.persistence.service.RequestLogService;
 import com.elephant.common.utils.NetworkUtil;
 import com.elephant.gw.filter.dto.RequestContext;
 

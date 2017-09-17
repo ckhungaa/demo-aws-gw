@@ -10,7 +10,7 @@ import org.glassfish.jersey.server.monitoring.ApplicationEventListener;
 import org.glassfish.jersey.server.monitoring.RequestEvent;
 import org.glassfish.jersey.server.monitoring.RequestEventListener;
 
-import com.elehpant.common.persistence.service.RequestLogService;
+import com.elephant.common.persistence.service.RequestLogService;
 import com.elephant.gw.filter.dto.RequestContext;
 
 @Provider
